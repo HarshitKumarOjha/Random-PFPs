@@ -10,8 +10,8 @@ h1{
 }
 
 body{
-    background-color: #F69680; /* salmon color */
-    color: #2E1263;
+    background-color: #ACAEC5; /* salmon color */
+    color: #44364B;
     font-family: "Source Code Pro";
     font-weight: 200;
 }
@@ -32,11 +32,11 @@ img{
 button{
     margin : 30px auto 0 ;
     padding : 20px 25px;
-    background-color:  #F69680;
+    background-color:  #ACAEC5;
     font-size: 14px;
     text-align: center;
-    color: #2E1263;
-    border: 1px solid #2E1263;
+    color: #44364B;
+    border: 1px solid #44364B;
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 4px;
@@ -45,8 +45,8 @@ button{
 
 button:hover{
     transition: 0.4s;
-    background-color: #2E1263;
-    color: #F69680;
+    background-color: #44364B;
+    color: #ACAEC5;
     text-decoration: underline;
 }
 
